@@ -37,7 +37,7 @@
 
 ## 📋 Projeto
 
-* O objetivo desse projeto é encontrar Heróis para fazer doações a ONG's escolhendo a causa que você mais se identificar, criamos uma aplicação WEB para as Ong's poderem se cadastrar e cadastrar os pedidos de ajuda e também um aplicativo mobile Android e IOS para os usuários conseguirem fazer as contribuições. <br><br><br>
+* Essa é uma plataforma totalmente voltada para fins ecológicos e o objetivo principal é conectar empresas que coletam resíduos orgânicos e inorgânicos à pessoas que precisam descartar esses resíduos.. <br><br><br>
 
 <h6 align="center"> 
     🖥Desktop
