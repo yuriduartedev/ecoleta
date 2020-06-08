@@ -44,7 +44,7 @@
 </h6>
 
 <p align="center">
-  <img alt="Aplicativo Desktop" src="https://github.com/yuriduarte/ecoleta/blob/master/.github/desktop.png">
+  <img alt="Aplicativo Desktop" src="https://github.com/yuriduarte/ecoleta/blob/master/.github/Ecoleta.png">
 </p>
 
 <br>
